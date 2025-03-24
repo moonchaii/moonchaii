@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Java, C# and Unity Development
 - 💞️ I’m looking to collaborate on Game Jams and Hackathons
 - 📫 How to reach me: teuropa123@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: any
 - ⚡ Fun fact: I have a cat named Shadow!
 
 <!---
