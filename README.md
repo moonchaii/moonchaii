@@ -6,6 +6,7 @@
 - 😄 Pronouns: any
 - ⚡ Fun fact: I have a cat named Shadow!
 
+[![Chai Europa's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonchaii)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 moonchaii/moonchaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
